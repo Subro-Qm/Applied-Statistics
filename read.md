@@ -19,7 +19,7 @@ In the case of probability measures, the product measure represents the independ
 
 # **APPLYING A FUNCTION TO A MEASURE (THE PUSHFORWARD MEASURE)**
 
- ![](Screenshot from 2023-01-01 23-04-05.png)
+ ![alt text](https://github.com/Subro-Qm/Applied-Statistics/blob/main/Screenshot%20from%202023-01-01%2023-04-05.png)
 
  If $\mu$ is a distribution on a set $X$ and $f: X \rightarrow Y$ is a function, it makes sense to consider the pushforward measure $f(\mu)$ as a distribution on the set $Y$.
 
