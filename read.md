@@ -19,6 +19,8 @@ In the case of probability measures, the product measure represents the independ
 
 # **APPLYING A FUNCTION TO A MEASURE (THE PUSHFORWARD MEASURE)**
 
+ ![](Screenshot from 2023-01-01 23-04-05.png)
+
  If $\mu$ is a distribution on a set $X$ and $f: X \rightarrow Y$ is a function, it makes sense to consider the pushforward measure $f(\mu)$ as a distribution on the set $Y$.
 
 To sample from the distribution $f(\mu)$, we can first sample from the distribution $\mu$ and then apply the function $f$ to the sample. This means that if we have a random variable $X$ with distribution $\mu$, and we define a new random variable $Y = f(X)$, then the distribution of $Y$ is given by $f(\mu)$.
